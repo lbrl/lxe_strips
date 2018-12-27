@@ -2,9 +2,9 @@
 
 How to run `draw_sprips_hits.py`:
 ```
-$ ./show_cr22root_out.py
+$ ./draw_sprips_hits.py
 ```
 or
 ```
-$ python ./show_cr22root_out.py
+$ python ./draw_sprips_hits.py
 ```
